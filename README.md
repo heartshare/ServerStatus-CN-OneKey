@@ -108,6 +108,8 @@ ServerStatus 一键安装管理脚本 [vx.x.x]
 
 **网页文件：**`/usr/local/ServerStatus/web`
 
+**客户端拓展信息配置文件:**`/usr/local/ServerStatus/customMsg.txt`
+
 **配置文件：**`/usr/local/ServerStatus/server/config.json`
 
 **客户端查看日志：**`tail -f tmp/serverstatus_client.log`
