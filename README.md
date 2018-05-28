@@ -108,7 +108,7 @@ ServerStatus 一键安装管理脚本 [vx.x.x]
 
 **网页文件：**`/usr/local/ServerStatus/web`
 
-**客户端拓展信息配置文件:**`/usr/local/ServerStatus/customMsg.txt`
+**客户端拓展信息配置文件:**`/usr/local/ServerStatus/customMsg.txt` #注意：不能超过512个字符，否则会出错。
 
 **配置文件：**`/usr/local/ServerStatus/server/config.json`
 
